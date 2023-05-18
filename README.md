@@ -30,3 +30,9 @@ Screenshots
 <img width="940" alt="Screenshot 2023-05-18 210057" src="https://github.com/Mohithsashank/FRT-Project/assets/108448111/0c986df2-ee96-475c-9ccb-6b2c96f768c8">
 <img width="950" alt="Screenshot 2023-05-18 210121" src="https://github.com/Mohithsashank/FRT-Project/assets/108448111/18bd1efa-709b-4036-a7ed-10a8f27f7ecd">
 
+ Tech Stack 💻
+- Azure(Hosting)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
