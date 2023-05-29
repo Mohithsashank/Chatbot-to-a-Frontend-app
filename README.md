@@ -12,6 +12,7 @@ Project demo video-https://youtu.be/XKRVvb3YjvI
 Azure Technologies used for the Project
 * static web apps
 * healthbot
+* web apps
 
 Features and Functionalities 😃
 
