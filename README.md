@@ -30,6 +30,7 @@ Screenshots
 <img width="943" alt="Screenshot 2023-05-18 210209" src="https://github.com/Mohithsashank/FRT-Project/assets/108448111/3ae33ba6-73bc-4081-a718-6bc490236d70">
 <img width="940" alt="Screenshot 2023-05-18 210057" src="https://github.com/Mohithsashank/FRT-Project/assets/108448111/0c986df2-ee96-475c-9ccb-6b2c96f768c8">
 <img width="950" alt="Screenshot 2023-05-18 210121" src="https://github.com/Mohithsashank/FRT-Project/assets/108448111/18bd1efa-709b-4036-a7ed-10a8f27f7ecd">
+<img width="960" alt="Screenshot 2023-05-29 140721" src="https://github.com/Mohithsashank/FRT-Project/assets/108448111/5dfaf095-a3ef-4d16-bb5b-7024d275680e">
 
  Tech Stack 💻
 - Azure(Hosting)
